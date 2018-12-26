@@ -6,7 +6,7 @@ categories: death scenes, best day
 ---
 Today's prompt: "You are an astronaut. Describe your perfect day."
 
-The day couldn't have been better. Somehow, hidden in all the packages of freeze-dried creamed spinach and chicken teriyaki, there was a packet of beef enchiladas and, wonder of wonders, some shrimp cocktail. You could have sworn you were out of the good stuff. Maybe the beef enchilada fairy visited overnight.
+The day couldn't have started better. Somehow, hidden in all the packages of freeze-dried creamed spinach and chicken teriyaki, there was a packet of beef enchiladas and, wonder of wonders, some shrimp cocktail. You could have sworn you were out of the good stuff. Maybe the beef enchilada fairy visited overnight.
 
 Conditions were perfect for the descent to Mars. You and Maria take the lander down to the surface. It touches down as smoothly as a fat snowflake nestling in the branch of a fir tree.
 
