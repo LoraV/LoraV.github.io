@@ -26,6 +26,6 @@ Today's prompt: "Tell a story that begins with a ransom note."
 
 "Mmmm mmmm!" you say.
 
-"Good idea," says Vix-trom. He produces a thin, gleaming blade and slashes all the way through your neck. Your head hits the floor with a thud and your body slumps in its chains.
+"Good idea," says Vix-trom. Its lower right arm produces a thin, gleaming blade and slashes all the way through your neck. Your head hits the floor with a thud and your body slumps in its chains.
 
 "Is it dead?" says the fat purple alien. "Stupid meat-sacks."
