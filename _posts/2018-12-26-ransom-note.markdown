@@ -22,7 +22,7 @@ Today's prompt: "Tell a story that begins with a ransom note."
 
 "Mmmmph," you attempt to say through your gag.
 
-"We should cut off its head and send it to the meat-bag's family," says the fat purple alien, removing its own head with its tentacle arms. "That way, we know we have their meat-bag, and they can just reattach the head when we give them the body back," it says, demonstrating with its own head.
+"We should cut off its head and send it to the meat-bag's family," says the fat purple alien, removing its own head with its tentacle arms. "That way, they know we have their meat-bag, and they can just reattach the head when we give them the body back," it says, demonstrating with its own head.
 
 "Mmmm mmmm!" you say.
 

@@ -12,6 +12,8 @@ Conditions were perfect for the descent to Mars. You and Maria take the lander d
 
 "Let's draw straws for who gets to go first," Maria says. She produces two foil strips she's saved from the tops of food packets, one trimmed shorter than the other. She turns her back to you, fiddling with the strips, then turns back around, the two ends poking out of her fist at an equal height. You suck in your breath and pick the one on the left. She opens her hand and holds up her strip, showing you she has the short one.
 
+"Lucky bastard," she says.
+
 You step out of the lander. The surface is curiously springy, the powdery dust giving way below your footsteps. Despite the bulk of your space suit, you feel exhilarated. Maria follows, and then Paul, Aubrey and Colin from the other lander. You all set to work connecting pieces of the base. 
 
 You look up, shading your eyes against the sun's glare. Deimos and Phobos are both out in the orange-y sky. It's breathtaking. Your heart swells. You're the first ones. The first humans on this planet.
