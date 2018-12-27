@@ -2,7 +2,7 @@
 layout: post
 title:  "Rocket Man"
 date:   2018-12-25 
-categories: death scenes, best day
+categories: death scenes, best day, sci-fi
 ---
 Today's prompt: "You are an astronaut. Describe your perfect day."
 

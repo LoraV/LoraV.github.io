@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What can happen in a second"
+title:  "What Can Happen in a Second"
 date:   2018-12-21 
 categories: death scenes
 ---
