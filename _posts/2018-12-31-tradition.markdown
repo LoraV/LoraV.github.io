@@ -36,4 +36,4 @@ Today's prompt: "Tell a complete stranger about a beloved family tradition."
 
 "June," you say, standing up from the bus stop bench, "I'm sure there's tons of people out there who want to help me out, and you could all come up with reasons for me to live. But if you think I don't have to do this," you say, starting towards the woods, "then you don't know shit about tradition."
 
-[My goal with these stories is to entertain, maybe to creep out my readers a little. But I feel the need to note here that the National Suicide Prevention Lifeline is 1-800-273-8255. Please get help if you need it.]
+[My goal with these stories is to entertain, maybe to creep out my readers a little. But depression is a real struggle for many people and I don't want to just breeze past that. If you're reading this and have been contemplating suicide, please call the National Suicide Prevention Lifeline at 1-800-273-8255.]
