@@ -10,7 +10,7 @@ title:            Yuh Dead
 tagline:          'This is how you die.'
 description:      'This is how you die.'
 url:              https://lorav.github.io
-baseurl:          /
+baseurl:          
 
 author:
   name:           'Lora Volkert'
