@@ -44,6 +44,6 @@ There was a full moon out, and the sprinklers had been on earlier in the evening
 
 "Hey," said Marla. "So glad you could make it." She gave you a sly smile. Giant canines flashed.
 
-You sucked in your breath, then looked at the other members of the group. Jordan now had a thick beard somehow, and while you wouldn't put it past Squid to wear cat-eye contact lenses, you were pretty sure something was up. Mo started sniffing you. Sniffing your shoulder, your neck. Jordan tossed his jacket on the ground, revealing muscular, hairy arms. You looked back to Marla. Jet-black, pointed ears protruded from her frizzy black mane, and her face had contorted into a muzzle.
+You sucked in your breath, then looked at the other members of the group. Jordan now had a thick beard somehow, and while you wouldn't put it past Shiv to wear cat-eye contact lenses, you were pretty sure something was up. Mo started sniffing you. Sniffing your shoulder, your neck. Jordan tossed his jacket on the ground, revealing muscular, hairy arms. You looked back to Marla. Jet-black, pointed ears protruded from her frizzy black mane, and her face had contorted into a muzzle.
 
 You turned and ran. You glanced behind you quickly to see a mass of ripping clothes and once-human features resolving themselves into fur, teeth, claws, and lean legs churning toward you. You ran faster, coming close to slipping on the grass a few times. But there was no outrunning the pack. As they tore into you, the sad thought entered your head: Marla probably didn't even like you. You were just prey the whole time.
