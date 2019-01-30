@@ -6,7 +6,7 @@ categories: death scenes
 ---
 Today's prompt: "The talk-show host"
 
-SM: "And we're back! If you're just tuning in this is *R'lyeh Talk* with me, your host, Steven Maul. With me is frequent guest of the show and High Priest of the Church of Shub-Niggurath, Ben Knight!"
+SM: "And we're back! If you're just tuning in, this is *R'lyeh Talk* with me, your host, Steven Maul. With me is frequent guest of the show and High Priest of the Church of Shub-Niggurath, Ben Knight!"
 
 [Audience cheers.]
 
