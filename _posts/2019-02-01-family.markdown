@@ -11,6 +11,7 @@ Well, now, that all depends, doesn't it?
 |If you identify as|Female|Male|
 |------------------|------|----|
 |Your nephew|Parricidal|Avunculicidal|
+|Your niece|Parricidal|Avunculicidal|
 |Your dad|Filicidal|Filicidal|
 |Your mom|Filicidal|Filicidal|
 |Your brother|Sororicidal|Fratricidal|
