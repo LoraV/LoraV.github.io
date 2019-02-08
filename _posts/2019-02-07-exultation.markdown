@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "All Fired Up"
+title: "Unsportsmanlike Conduct"
 date:   2019-02-07
 categories: death scenes
 ---
