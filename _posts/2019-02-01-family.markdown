@@ -8,14 +8,14 @@ Today's prompt: "Describe each person in your family with just one word."
 
 Well, now, that all depends, doesn't it?
 
-|If you identify as|Female|Male|
-|------------------|------|----|
-|Your nephew|Parricidal|Avunculicidal|
-|Your niece|Parricidal|Avunculicidal|
-|Your dad|Filicidal|Filicidal|
-|Your mom|Filicidal|Filicidal|
-|Your brother|Sororicidal|Fratricidal|
-|Your sister|Sororicidal|Fratricidal|
-|Your son|Matricidal|Patricidal|
-|Your daughter|Matricidal|Patricidal|
-|Your spouse|Uxoricidal|Mariticidal|
+|If you identify as|Female|Male|Non-binary|
+|------------------|------|----|----------|
+|Your nephew|Parricidal|Avunculicidal|Parricidal|
+|Your niece|Parricidal|Avunculicidal|Parricidal|
+|Your dad|Filicidal|Filicidal|Filicidal|
+|Your mom|Filicidal|Filicidal|Filicidal
+|Your brother|Sororicidal|Fratricidal|Siblicidal|
+|Your sister|Sororicidal|Fratricidal|Siblicidal|
+|Your son|Matricidal|Patricidal|Parricidal|
+|Your daughter|Matricidal|Patricidal|Parricidal|
+|Your spouse|Uxoricidal|Mariticidal|Mariticidal|
