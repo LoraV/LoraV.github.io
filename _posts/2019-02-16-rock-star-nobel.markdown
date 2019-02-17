@@ -132,7 +132,7 @@ The door swings open as security lets in a massive gaggle of fans with badges. Y
 
 It seems like there's basically two groups of fans in here. One is a crowd of early 20-somethings, all of whom are very attractive. One of them catches your eye. Long, straight brown hair and a slim build. Just your type.
 
-You're about to go up and introduce yourself when your drummer, Ryan, elbows yu and points to the other group. "They have blow." 
+You're about to go up and introduce yourself when your drummer, Ryan, elbows you and points to the other group. "They have blow." 
 
 To join the hot groupies for the evening, [turn to page 2](#page-2).
 
