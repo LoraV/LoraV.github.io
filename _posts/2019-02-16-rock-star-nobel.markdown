@@ -16,7 +16,7 @@ If you want to start a rock band, [turn to page 8](#page-8).
 
 ### Page 2
 
-You and the groupies make your way to a nightclub. You make your way back to the VIP section. 
+You and the groupies make your way to the VIP section of a nightclub. 
 
 The fan you were looking at earlier, with the long brown hair, is walking next to you. They brush up against your arm in a way you're pretty sure is not accidental. It's confirmed when you see a glance and a sly smile a moment later. You're about to start chatting them up, when one of the girls in your group shouts, "Trina!"
 
