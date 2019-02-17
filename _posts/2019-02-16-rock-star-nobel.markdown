@@ -40,7 +40,7 @@ Trina stands up and places her hands on the table, the better to lean over you, 
 
 You black out.
 
-[Turn to page 9](#page-9)
+[Turn to page 9](#page-9).
 
 ### Page 3
 
@@ -76,7 +76,7 @@ There must be something hallucinogenic in there, too, because you could swear on
 
 You black out.
 
-[Turn to page 9](#page-9)
+[Turn to page 9](#page-9).
 
 ### Page 5
 
@@ -86,7 +86,7 @@ You look around you and notice, standing in the corner, the woman in the bun and
 
 You black out.
 
-[Turn to page 9](#page-9)
+[Turn to page 9](#page-9).
 
 ### Page 6
 
@@ -100,7 +100,7 @@ You open the door. Two large men seize your arms, while another throws a bag ove
 
 You black out.
 
-[Turn to page 9](#page-9)
+[Turn to page 9](#page-9).
 
 ### Page 7
 
@@ -116,9 +116,9 @@ After the ceremony, a woman in a tight bun and a pencil skirt approaches you. "C
 
 Your colleagues are standing nearby, waiting to go to the after-party with you.
 
-To go with the woman to see her "specimen," [turn to page 3](#page-3)
+To go with the woman to see her "specimen," [turn to page 3](#page-3).
 
-To celebrate with your colleagues, [turn to page 5](#page-5)
+To celebrate with your colleagues, [turn to page 5](#page-5).
 
 ### Page 8
 
