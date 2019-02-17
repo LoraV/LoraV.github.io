@@ -142,4 +142,4 @@ If you're all, no thanks, I'd rather go back to the hotel room and drink some ye
 
 ### Page 9
 
-You come to, face-to-face with a hungry elder god, surrounded by worshippers in black robes. As they force you into tentacle's reach of the elder god, you wonder if there was any choice you could have made that would lead you to a different outcome.
+You come to, face-to-face with a hungry elder god, surrounded by worshippers in black robes. As they force you into tentacle's reach of the elder god, you wonder if there was any choice you could have made that would have led you to a different outcome.
