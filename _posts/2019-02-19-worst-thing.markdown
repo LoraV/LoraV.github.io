@@ -14,7 +14,7 @@ It's a tale as old as time -- gather intel, infiltrate, counterintelligence, thw
 
 Or there will be. As long as you don't talk.
 
-"One last time," the stubble-faced man says, his left hand pressing down on your first three fingers, his right hand holding your pinky aloft. "Where. Is the rift. Going to appear?"
+"One last time," the stubble-faced man says, his left hand pressing down on your first three fingers, his right hand holding your pinky upright. "Where. Is the rift. Going to appear?"
 
 "Do your worst," you say.
 
