@@ -4,7 +4,7 @@ title: "Cultural Touchstones"
 date:   2019-03-04
 categories: death scenes
 ---
-Today's prompt: "List five cultural events that impacted you greatly. Then write about oneof them without mentioning yourself."
+Today's prompt: "List five cultural events that impacted you greatly. Then write about one of them without mentioning yourself."
 
 1. Othuyeg, the Doom-Walker (a giant eyeball), lands a reality show following the release of its sex tape.
 2. Congressional hearings on the cultist menace. It was the '93 senate hearings on violent video games all over again.
