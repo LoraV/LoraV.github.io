@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "hard Choices"
+title: "Hard Choices"
 date:   2019-03-05
 categories: death scenes
 ---
