@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "You'll Go Down in History"
+title: "One for the History Books"
 date:   2019-03-27
 categories: death scenes
 ---
