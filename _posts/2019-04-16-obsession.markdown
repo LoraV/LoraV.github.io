@@ -14,6 +14,6 @@ All she has is a knife. A knife and her obsession.
 
 Her gloved hand drops a new head into the terrarium and lifts your skull out, shaking the remaining dermestid beetles from your eye sockets and nasal cavity. And into the peroxide bath you go. A few hours later, you're pulled from the bucket, rinsed in a few changes of water, and set on an old bath towel to dry.
 
-She comes black, dressed in black lace. She takes out a tube of burgundy lipstick and smears a thick layer onto her lips. She picks you up and carries you into another room filled with lit candles and dried roses. She kisses you on the top of your head and sets you onto a small table in front of a mirror, then sits in a chair and waits.
+She comes back, dressed in black lace. She takes out a tube of burgundy lipstick and smears a thick layer onto her lips. She picks you up and carries you into another room filled with lit candles and dried roses. She kisses you on the top of your head and sets you onto a small table in front of a mirror, then sits in a chair and waits.
 
 Death comes. Death takes your skull. She smiles at her devotee.
