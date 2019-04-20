@@ -10,7 +10,7 @@ Today's prompt: "Write stage directions for an actor that insult him or her pers
 
 YOU: Hello? Is anybody home?
 
-*In your naivete, you walk center stage past the staircase, failing utterly to check the room and opening yourself up to attacks from all sides. Hooded Figure 1, carrying a scythe, silently walks down the stairs, unnoticed by you, who are far to unobservant to pick up on such things.*
+*In your naivete, you walk center stage past the staircase, failing utterly to check the room and opening yourself up to attacks from all sides. Hooded Figure 1, carrying a scythe, silently walks down the stairs, unnoticed by you, who are far too unobservant to pick up on such things.*
 
 YOU: I was driving past the house when I thought I heard a scream. Is everybody okay?
 
