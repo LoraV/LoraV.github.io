@@ -14,7 +14,7 @@ YOU: Hello? Is anybody home?
 
 YOU: I was driving past the house when I thought I heard a scream. Is everybody okay?
 
-*You walk stage right, still foolishly unaware of your surroundings. Seriously, what kind of nincompoop just walks into a house like that when there could be danger? Hooded Figure 1 continues down the stairs. Hooded Figure 2 enters quietly from the kitchen (up stage left).*
+*You walk stage right, still foolishly unaware of your surroundings. Seriously, what kind of nincompoop just walks into a house like that when there could be danger? Hooded Figure 1 continues down the stairs. Hooded Figure 2, holding a spiked club, enters quietly from the kitchen (up stage left).*
 
 YOU: Hellooooo....
 
