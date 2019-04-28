@@ -1,0 +1,7 @@
+---
+layout: post
+title: "AFK"
+date:   2019-04-28
+categories: metaposts
+---
+Posts will resume Friday.
