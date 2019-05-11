@@ -38,6 +38,6 @@ A door. That looks like a front door. You bolt toward it, throw it open, rush th
 
 Through the corner of your eye, you see a bonfire in the side yard, and several vehicles parked out to the left. You run to the nearest one that's not parked in, hoping against hope. You hear shouting from the direction of the bonfire and the group spilling out of the house behind you.
 
-The window is open on the driver's side door of the Jeep, and you pull open the door. Miraculously, the keys are in the ignition. You leap in, turn the key, and the engine roars to life. You throw the Jeep into reverse just as a robed figure from the house grabs reaches the door. You stab his hands with your knife. He screams and lets go, and you pull away from the cultists' house in a cloud of dust and gravel.
+The window is open on the driver's side door of the Jeep, and you pull open the door. Miraculously, the keys are in the ignition. You leap in, turn the key, and the engine roars to life. You throw the Jeep into reverse just as a robed figure from the house reaches the door and grabs hold. You stab his hands with your knife. He screams and lets go, and you pull away from the cultists' house in a cloud of dust and gravel.
 
 The knife enters your heart. Your blood pools across the cool basement floor and into the edges of the pentagram. The man in the robe chants louder for Cthulhu to come.
