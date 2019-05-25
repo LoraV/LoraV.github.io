@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Change in Posting Schedule"
+date:   2019-05-24
+categories: metaposts
+---
+I will likely need to cut back on my posting schedule over the next few months to make time for some new creative projects I'm picking up. I still plan to post at least every other day.
