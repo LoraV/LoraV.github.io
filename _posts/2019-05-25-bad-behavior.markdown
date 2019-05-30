@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bad Behavior"
-date:   2019-05-24
+date:   2019-05-25
 categories: death scenes
 ---
 Today's prompt: Make a scene with a character exhibiting really bad behavior.
