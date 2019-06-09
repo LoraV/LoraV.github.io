@@ -16,6 +16,6 @@ She isn't relenting in her pursuit of you, and she's gaining. You see a long, st
 
 The bear is nearly upon you. You swing the stick at her head, grazing her eye.
 
-Sparks shoot from the eye. And the scratch you made on her face, rather than drawing blood, merely scrapes the faux fur away from the metal exoskeleton away from the bear-shaped robot.
+Sparks shoot from the eye. And the scratch you made on her face, rather than drawing blood, merely scrapes the faux fur away from the metal exoskeleton of the bear-shaped robot.
 
 ROBO-BEAR IS PROGRAMMED FOR CARNAGE. ROBO-BEAR CARES NAUGHT FOR FAMILIAL RELATIONSHIPS. ROBO-BEAR WANTS ONLY CARNAGE. *THIS* IS WHAT SHE WANTS MOST IN THE WORLD.
