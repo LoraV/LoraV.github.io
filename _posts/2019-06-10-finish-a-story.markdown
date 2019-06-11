@@ -243,6 +243,8 @@ His rough hands pulled you away from the ice machine. But the stone in your bell
 Fox! Real, human Fox had saved you! Your hatred for humanity began to fade away like a dream. You had hated humanity so *much*! But why had you thought that? *Had* you thought that?
 
 ---
+---
+---
 
 You, Fox and Trish gathered in Trish's room. Fox's normally neat printing had devolved into something closer to a scrawl as he'd filled several pages in his notebook within the last half hour.
 
