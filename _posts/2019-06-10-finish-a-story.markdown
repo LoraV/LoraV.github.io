@@ -304,7 +304,7 @@ The technician recovers herself and dashes toward you. She tries to pry the plat
 
 Your hand shoots upward with unaccustomed strength and squeezes her windpipe.
 
-The nurse shrieks and runs toward you, trying to pull the technician away from yu, but you just backhand her to the floor. You keep squeezing until the technician is dead.
+The nurse shrieks and runs toward you, trying to pull the technician away from you, but you just backhand her to the floor. You keep squeezing until the technician is dead.
 
 The nurse gets to the waiting room only a few moments before you do. "Run!" she screams at the assembled patients in the waiting room, but it's too late. Your preternaturally strong, mechanical hands begin ripping through flesh and bone, through children waiting with Dum-Dums in their mouths as their parents are interrupted from making follow-up appointments, through a pregnant woman here for an ultrasound.
 
