@@ -4,7 +4,7 @@ title: "Monsters from the Deep"
 date:   2019-06-10
 categories: death scenes
 ---
-Today's prompt: "Find a short story you haven't yet read. Read the first two-thirds. Then pick up the story where it leaves off, and write its end." [I have chosen a story called "Monsters from the Deep" by David Malki from the anthology *This Is How You Die*, edited by Ryan North, Matthew Bennardo and David Malki. It is the sequel to *Machine of Death*, an anthology of short stories predicated on the premise, first outlined [here:](http://www.qwantz.com/index.php?comic=675) What if there was a machine that, if you gave it a sample of your blood, could accurately (and sometimes ironically) predict how you die? Everything up until the horizontal line comes from the original story, but modified to make it gender neutral and remove the viewpoint character's name. More notes afterward.]
+Today's prompt: "Find a short story you haven't yet read. Read the first two-thirds. Then pick up the story where it leaves off, and write its end." [I have chosen a story called "Monsters from the Deep" by David Malki from the anthology *This Is How You Die*, edited by Ryan North, Matthew Bennardo and David Malki. It is the sequel to *Machine of Death*, an anthology of short stories predicated on the premise, first outlined [here:](http://www.qwantz.com/index.php?comic=675) What if there was a machine that, if you gave it a sample of your blood, could accurately (and sometimes ironically) predict how you die? Everything up until the three horizontal lines comes from the original story (single horizontal lines indicates a section break in the original story). The parts of the original story reproduced here have been modified to make it gender neutral and remove the viewpoint character's name. More notes afterward.]
 
 Your first clue that something was off was that the buttons were spongy. They looked like regular hard plastic vending machine buttons, and the printing on the letters and numbers was sharp, but they were weirdly mushy to the touch. Pressing B4 to get a Snickers bar had felt like pressing two overripe grapes about to burst with pulp.
 
@@ -58,7 +58,7 @@ Stained with chocolate and saliva, it was your death prediction: BREAST CANCER. 
 
 Fox looked over at you right as you started screaming.
 
-
+---
 
 The conference table was covered in shards of candy.
 
@@ -90,7 +90,7 @@ Fox checked his watch, then looked back out into the lounge room. "I'm gonna hel
 
 "Mash it up and form it into a crab," came the voice from your knees. "Let me know when it's ready so I can come rub my chest in it and die."
 
-
+---
 
 Half an hour later you were high above the ocean, Boss-Man asleep back in the cabin with three or four martinis in him, giving you and Fox nothing to do but stare at the featureless blue and talk. The Citation was on autopilot, like a train riding a ruler-straight rail for two thousand miles, and Fox had his laptop open. Long flights were his office hours.
 
@@ -126,7 +126,7 @@ But you didn't stand right away, just kept staring at the big blue deck outside,
 
 "Yeah. Right on my mantel," you said. "'The Last Snickers Bar I Ever Ate.'"
 
-
+---
 
 A bigger story hit the news over the next week or so. Blogs had it first, then TV a few days later.
 
@@ -154,7 +154,7 @@ Fox had looked into it once but hadn't found anything. Presumably the FDA had be
 
 And now, all at once, they were gone. In the places they had been were soda machines, DVD rental kiosks, phone booths, mailboxes. Nobody remembered seeing *them* installed, either.
 
-
+---
 
 Your next flight was a week later. You dropped Boss-Man into Burbank and had ten hours to kill before the ride home. A loaner car got you into Glendale and you ate Cuban in the shadow of Griffith Park. It was a restaurant that used to be a gas station. An old-timey jukebox watched everybody from a corner.
 
@@ -202,7 +202,7 @@ F3 started rather small and quickly climbed at a startling rate.
 
 "*Something,*" said Fox, "is going to start killing more and more people."
 
-
+---
 
 You were due out of Burbank at ten p.m., so after lunch, the three of you holed up at a hotel to catch a nap. But you had a hard time sleeping. You tossed and turned in the overly air-conditioned room, full of fluffy, stifling pillows and drapes that didn't quite keep out the light. Late-night flights were the worst because the day before was always a shambles. Same-day ins-and-outs were worse yet. But Boss-Man had a business to run, and you were on duty. You counted yourself lucky to have the gig.
 
@@ -270,7 +270,7 @@ You snort. "I suppose I should get a mammogram while I'm at it?"
 
 "In all seriousness?" Fox says. "Wouldn't hurt."
 
-
+---
 
 The X-rays were uneventful, from what you could tell. They hadn't been thoroughly inspected by a doctor yet, but at least the technicians weren't shouting "Oh my god, I've never seen anything like this before." 
 
@@ -310,7 +310,7 @@ The nurse gets to the waiting room only a few moments before you do. "Run!" she 
 
 Fox and Trish look at each other, a sad understanding in their eyes. "I guess now was the time," Fox said, as he unfolded a thin strip of paper from his pocket. A strip of paper with your name on it in all caps.
 
-
+---
 
 BREAST CANCER only took you indirectly. First, the machines used your body to wreak carnage on about half of North America. Then, they walked you off a cliff. Perhaps CLIFF would have been more accurate. Even BREAST CANCER DIAGNOSTICS would have been more appropriate. But anyone who thought the machines played fair was kidding themselves.
 
