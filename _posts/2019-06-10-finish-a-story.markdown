@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Monsters from the Deep"
-date:   2019-06-09
+date:   2019-06-10
 categories: death scenes
 ---
 Today's prompt: "Find a short story you haven't yet read. Read the first two-thirds. Then pick up the story where it leaves off, and write its end." [I have chosen a story called "Monsters from the Deep" by David Malki from the anthology *This Is How You Die*, edited by Ryan North, Matthew Bennardo and David Malki. It is the sequel to *Machine of Death*, an anthology of short stories predicated on the premise, first outlined [here:](http://www.qwantz.com/index.php?comic=675) What if there was a machine that, if you gave it a sample of your blood, could accurately (and sometimes ironically) predict how you die? Everything up until the horizontal line comes from the original story, but modified to make it gender neutral and remove the viewpoint character's name. More notes afterward.]
