@@ -311,3 +311,5 @@ Fox and Trish look at each other, a sad understanding in their eyes. "I guess no
 
 
 BREAST CANCER only took you indirectly. First, the machines used your body to wreak carnage on about half of North America. Then, they walked you off a cliff. Perhaps CLIFF would have been more accurate. Even BREAST CANCER DIAGNOSTICS would have been more appropriate. But anyone who thought the machines played fair was kidding themselves.
+
+[I decided not to change the death "BREAST CANCER" in the book. Men can get breast cancer, too. And they can get mammograms, as well.]
