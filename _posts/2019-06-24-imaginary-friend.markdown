@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Imaginary Friend"
+title: "Imaginary Frenemy"
 date:   2019-06-24
 categories: death scenes
 ---
