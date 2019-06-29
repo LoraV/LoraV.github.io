@@ -12,7 +12,7 @@ I appreciate your interest in telling my story. I hope it will serve as a warnin
 
 Enclosed, please find my diaries. They may aid you in the telling of my story. I have entrusted them and this letter to the care of Captain Walton. He may be able to fill you in on any events that may transpire after this last writing.
 
-I must be off. Walton's crew will not accompany me or take me further, claiming that the ice makes the journey too dangerous. We have already been trapped in the ice once, so I suppose I cannot blame them, but I cannot allow my creation to escape justice, nor can I leave my dear Elizabeth unavenged. Though its antipathy clearly lies with me, my creature is a danger to mankind, and I cannot in good conscience allow it to escape. 
+I must be off. Walton's crew will not accompany me or take me further, claiming that the ice makes the journey too dangerous. We have already been trapped in the ice once, so I suppose I cannot blame them, but I cannot allow my creature to escape justice, nor can I leave my dear Elizabeth unavenged. Though its antipathy clearly lies with me, my creature is a danger to mankind, and I cannot in good conscience allow it to escape. 
 
 Walton assures me that by going on on foot across the ice, I have almost certainly signed my death warrant -- that I will freeze to death. I am sure he is right, but if I can destroy my hideous creation, it will have all been worth it. 
 
