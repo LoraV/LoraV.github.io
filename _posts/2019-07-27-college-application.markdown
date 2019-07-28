@@ -14,7 +14,7 @@ Today, your obstacle is Cxaxukluth, spawn of Azathoth, a bubbling protoplasm of 
 
 Back in question #2, you responded to the topic, "Reflect on a time when you questioned or challenged a belief or idea. What prompted your thinking? What was the outcome?" At the time, you talked about the crisis of faith you had when your favorite uncle was diagnosed with pancreatic cancer. How you wrestled with the classic "Why do bad things happen to good people?" question that has plagued philosophers for ages. You concluded by saying that you'd found some solace in your church, but that you were still occasionally riddled by doubt.
 
-Today, your entire belief system has been upended. The benevolent god you still weren't totally sure you believed in has now been replaced by a pantheon of monstrous beings who see the universe as either pawns in an inscrutable plan to spread madness and evil, fodder for their endless hunger, or a stain to be blotted out.
+Today, your entire belief system has been upended. The benevolent god you still weren't totally sure you believed in has now been replaced by a pantheon of monstrous beings who see humans as either pawns in an inscrutable plan to spread madness and evil, fodder for their endless hunger, or a stain to be blotted out.
 
 Question #3 asked you, "Share an essay on any topic of your choice. It can be one you've already written, one that responds to a different prompt, or one from your own design." You wrote on life lessons learned while playing foosball, an essay waxing rhapsodic on the difficulty in learning when to play defense and when to shift to offense in life's everyday battles.
 
