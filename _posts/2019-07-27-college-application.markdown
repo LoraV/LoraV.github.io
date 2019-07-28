@@ -6,7 +6,7 @@ categories: death scenes
 ---
 Today's prompt: "Rewrite your college application essay from today's point of view, answering the last question: 'Is there anything else we should know?'"
 
-4. Is there anything else we should know?
+#4. Is there anything else we should know?
 
 In question #1, you answered the prompt, "The lessons we take from obstacles we encounter can be fundamental to later success. Recount a time when you faced a challenge, setback, or failure. How did it affect you, and what did you learn from the experience?" Back when you were first applying to college, you wrote about the time the transmission went out on your 1993 Kia Sephia, and your family couldn't afford to fix it right away. Your parents' work schedules didn't allow for them to take you to and from school and your part time job. You bummed rides from friends and flipped burgers until you'd saved up enough money for the repairs. You think you said something about empathizing with families who were even less well off than yours, who couldn't afford to buy their high school kids a car, however shitty that car might be.
 
