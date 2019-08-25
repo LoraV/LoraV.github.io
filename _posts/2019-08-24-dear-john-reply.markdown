@@ -13,4 +13,5 @@ If you're receiving this letter, it's because I've been killed in combat. A ball
 I hope you never read this letter. I hope we get to get married when I go home. But if you are reading this, just know that I never stopped loving you. I hope you find someone else who'll treat you right, and I hope you have a good, long life.
 
 Much love,
+
 [Your name]
