@@ -34,6 +34,6 @@ She raises her arms then, and faces the wall where you are chained. "Mmmmmph," y
 
 The pretty blond's eyes roll back in her head, and she chants in surprisingly deep tones. "Ahornah ymg' ftaghu mglagln ahmgep hup ymg' bthnkor. Ahornah ymg bthnkor mglagln ahmgep hup ymg' fst'mahgrn."
 
-Your skin begins to peel away from your muscles, beginning at your fingertips and underneath your toenails, and quickly spreading up your calves and down your forearms. You scream in pain and horror as you watch the muscles in your feet unravel from their bones, the ligaments that once held them their splaying out in the open air.
+Your skin begins to peel away from your muscles, beginning at your fingertips and underneath your toenails, and quickly spreading up your calves and down your forearms. You scream in pain and horror as you watch the muscles in your feet unravel from their bones, the ligaments that once held them there splaying out in the open air.
 
 As you die screaming, you can still see the creepy professor rest his hand on his student's shoulder. "Very good."
