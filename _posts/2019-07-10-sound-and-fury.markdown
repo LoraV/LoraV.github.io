@@ -58,7 +58,7 @@ Until a construction zone narrows the highway to one lane and you find yourself 
 
 VvvvvvvvvVMMvvvvvvVMMM VMMM VVMMMMM! One of the motorcyclists pulls up besides you. He aims.
 
-What's good for the goose is good for the gander. You shove into him, and he hits a pylon. His motorcycle goes down, and his leg under it. It looks like he's down for the count.
+What's good for the goose is good for the gander. You shove into him, and he hits a pylon. His motorcycle goes down, with his leg under it. It looks like he's down for the count.
 
 The other motorcyclist is more cautious. He stays behind you and to the side. You see his arm raise a pistol.
 
@@ -66,7 +66,7 @@ BLAM! Kkk-krsssh! There goes the rear window.
 
 You have to do something. You look around the car, but there's nothing, no weapons, just one of those windshield scrapers. 
 
-Hell, it's worth a shot. You pick up the windshield scraper, roll down your window and chuck it at the motorcycle. In a million-to-one shot, it bounces off the pavement and lodges in the rear wheel's spokes. The motorcycle jolts up and to te left, and the driver is launched forward.
+Hell, it's worth a shot. You pick up the windshield scraper, roll down your window and chuck it at the motorcycle. In a million-to-one shot, it bounces off the pavement and lodges in the rear wheel's spokes. The motorcycle jolts up and to the left, and the driver is launched forward.
 
 BLAM! BLAM! BLAM! He shoots at you, but his aim is wild. You watch as the motorcycle tumbles down the bank. You did it! You've gotten away from them!
 
