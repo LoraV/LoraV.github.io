@@ -4,7 +4,7 @@ title: "Survival Guide"
 date:   2019-10-21
 categories: death scenes
 ---
-Today' prompt: "Write a survival guide for a character: Ten things to do in an emergency."
+Today's prompt: "Write a survival guide for a character: Ten things to do in an emergency."
 
 1. Avoid open spaces in the outdoors. Winged Old Ones and Outer Gods such as Ny-Rakath and Ngirrth'lu will swoop in to devour you.
 

@@ -4,7 +4,7 @@ title: "Three Sounds"
 date:   2019-10-05
 categories: death scenes
 ---
-Today' prompt: "Go outside and notice three distinct sounds. Remove the labels and describe exactly what they sound like. Then write a story incorporating the sounds.
+Today's prompt: "Go outside and notice three distinct sounds. Remove the labels and describe exactly what they sound like. Then write a story incorporating the sounds.
 
 Whooosh. Vvvvvvffff. Rrrrrrr. [The sound of traffic in the middle distance.]
 

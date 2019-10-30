@@ -4,7 +4,7 @@ title: "Kitchen Nightmares"
 date:   2019-10-19
 categories: death scenes
 ---
-Today' prompt: "You're the White House head chef, preparing a state dinner for the president of India. What do you serve, and how does it turn out?"
+Today's prompt: "You're the White House head chef, preparing a state dinner for the president of India. What do you serve, and how does it turn out?"
 
 You've been looking forward to cooking this Indian-Cajun fusion menu for days. Vegetable samosas with potatoes, okra and mustard greens. A modified version of Oysters Rockefeller, touched up with fresh ginger. Catfish chunks fried in cornmeal and turmeric and served with naan, cilantro and diced chillies. Lamb kebabs over muffuletta salad. And a shrimp dish you call Mumbai Gumbo, which brings together elements of gumbo and curry.
 
