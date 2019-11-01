@@ -8,7 +8,7 @@ Today's prompt: "Write a life as a series of postcards."
 
 ![Greetings from Arizona]({{site.baseurl}}/public/postcard1.png)
 
-Hello Pen Pal! Mom and Dad and my brother and sister and I are on a road trip to Santa Fe to visit Grandma. Dad said we should stop at Bedrock City. There were dinosaur statues and a volcano and a dinosaur slide. Dad said I should go down the slide, but the slide wasn't very fast and I had to pull myself down the slidewith my hands on the rail but then I just stood up because I was close to the ground. There was also a giant pair of teeth in the dentist's office there. It was kind of scary.
+Hello Pen Pal! Mom and Dad and my brother and sister and I are on a road trip to Santa Fe to visit Grandma. Dad said we should stop at Bedrock City. There were dinosaur statues and a volcano and a dinosaur slide. Dad said I should go down the slide, but the slide wasn't very fast and I had to pull myself down the slide with my hands on the rail but then I just stood up because I was close to the ground. There was also a giant pair of teeth in the dentist's office there. It was kind of scary.
 
 [Insert-your-name-here] 
 
@@ -20,7 +20,7 @@ Cthulhu
 
 ![I "Heart" NY]({{site.baseurl}}/public/postcard5.png)
 
-Hello Pen Pal! How are things in R'lyeh? I just finished unpacking in my dorm room at New York University. It didn't feel like a proper trip until I'd written to you, though. I'm so excited to start film school! My first semester is going to mostly core requirements, but that's okay. I already have an idea for my first student film. It's about a woman whose best friend is a werewolf, but she doesn't know it even though all her other friends keep getting mauled to death. What do you think? 
+Hello Pen Pal! How are things in R'lyeh? I just finished unpacking in my dorm room at New York University. It didn't feel like a proper trip until I'd written to you, though. I'm so excited to start film school! My first semester is going to be mostly core requirements, but that's okay. I already have an idea for my first student film. It's about a woman whose best friend is a werewolf, but she doesn't know it even though all her other friends keep getting mauled to death. What do you think? 
 
 [Insert-your-name-here] 
 
