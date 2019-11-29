@@ -8,7 +8,7 @@ Today's prompt: "Write a story that ends with the line 'And this is the room whe
 
 Never let it be said that cultists don't like their musical theater parodies.
 
-You're in a room. A room with a sigil painted on the floor. A room with chains bolted to the floor, holding you still over thi sigil. A room with a boom box in the corner, which one of the cultists presses the play button on.
+You're in a room. A room with a sigil painted on the floor. A room with chains bolted to the floor, holding you still over said sigil. A room with a boom box in the corner, which one of the cultists presses the play button on.
 
 A trumpet sounds out. Dah dah dah-dah-dah-dah-dah!
 
