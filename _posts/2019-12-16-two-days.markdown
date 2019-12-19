@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Seventeen Years Later"
-date:   2019-12-18
+date:   2019-12-16
 categories: death scenes
 ---
 Today's prompt: "Imagine a character at two very different ages, and describe his or her day at each age."
