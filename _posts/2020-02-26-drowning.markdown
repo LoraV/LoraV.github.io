@@ -1,0 +1,41 @@
+---
+layout: post
+title: "A Mouthful of Air"
+date:   2020-02-26
+categories: death scenes
+---
+Today's prompt: "Describe nearly drowning"
+
+True story. Several years ago, my team at work decided to go kayaking together as a team-building activity. My team lead was an experienced kayaker. So was our company's QA manager Rob; we invited him along so between the two of them they could help out the rest of us noobs if we got into trouble. I was a Software Development Engineer in Test at the time -- basically, I wrote test tools for other code. SDETs were pretty rare, and Rob joked that he wasn't going to let any SDETs drown.
+
+I had experience in a canoe on mostly still lakes, so I had the basics of steering down, but I'd never steered a raft or kayak in whitewater. And I had no experience reading a river, translating the way the currents moved into a path you could traverse. But I was game to try. Our QA didn't have experience steering a canoe or kayak, but she had way more upper arm strength than I did. So we paired up in a two-person inflatable kayak. She went in the front to power the kayak; I went in the back to steer.
+
+I got a feel for steering in whitewater pretty quickly. Before long, I was able to take us through the more fun-looking parts of the rapids. But then we got to one of the trickier parts of the river, called "Mike's Hole." Before we got too close to it, our experienced kayakers told the group we would need to steer left as soon as we hit the whirlpool. Then one by one, each of the kayaks went through. My QA and I went last. I was highly focused on trying to steer us left just at the point in the rapids that they'd told us. I pushed my paddle backward into the river to create as sharp a left turn as I could. 
+
+The next thing I knew I was underwater.
+
+I'd flipped off the back of my kayak and been instantly sucked down by the whirlpool. Miraculously, I had a mouthful of air. Time slowed to a crawl.
+
+"Oh my god. I'm going to die," I thought.
+
+Then, "I'm not going to die. Rob won't let me."
+
+"I just need to get to the surface," I thought. I immediately started doggy-paddling.
+
+Then it dawned on me. "I don't know which way is up."
+
+"I'm wearing a life jacket," I remembered. "Just let it do its job." I stopped paddling and let the life vest carry me up.
+
+When I broke the surface, I called out for help as loudly as I could, sure my weak voice was being drowned out by the sound of the rapids. I was too exhausted to swim. I could only cry out, "help. help."
+
+They were already looking for me, of course. When they saw I wasn't in the back of the kayak, my whole team was terrified.
+
+Rob paddled his one-person kayak over to where I was. He didn't try to get me back on my kayak right away; he just draped me onto one of the other kayaks until we could all get safely to shore.
+
+On shore, we took a break and had some sandwiches. And then, sensing all eyes on me, I put on a show of bravado and said I was eager to finish the trip. Everyone seemed relieved. The rest of the trip was uneventful. The rapids were easy to steer through, and my QA and I caught some good whitewater.
+
+I got lucky.
+
+But at least I have some idea of what was going through your mind when that cultist held your head underwater until the last bubbles escaped from your lips.
+
+"Oh my god. I'm going to die."
