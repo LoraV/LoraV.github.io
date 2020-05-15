@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Inno a un Pomodoro"
+date:   2020-05-14
+categories: death scenes
+---
+Today's prompt: "Write a poem about a tomato"
+
+You were just killed by   
+A delicious tomato   
+Spiked with cyanide
