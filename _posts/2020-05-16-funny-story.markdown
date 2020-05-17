@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cool Story, Bro"
+title: "Once Upon a Mattress"
 date:   2020-05-16
 categories: death scenes
 ---
