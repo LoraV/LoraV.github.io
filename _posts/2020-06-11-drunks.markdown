@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lush
-date: 2020-06-07
+date: 2020-06-11
 categories: death scenes
 ---
 Today's prompt: "There are two kinds of people: drunks and survivors of drunks. Which are you?"
