@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I Spy"
-date:   2020-07-14
+date:   2020-08-14
 categories: death scenes
 ---
 Today's prompt: "What ten questions are you going to ask to figure out the object in a game of I Spy?"
