@@ -54,6 +54,6 @@ You hand over the gravy boat. "Isn't that against the First Amendment?"
 
 "Really, going to church once in a while wouldn't hurt, you know," Aunt Kathy says.
 
-"Not happening," you tell your aunt. You turn to your uncle. "So when do your start your murderous jihad for Nyarlathotep?"
+"Not happening," you tell your aunt. You turn to your uncle. "So when do you start your murderous jihad for Nyarlathotep?"
 
 "No time like the present," Uncle Gregory says, a firm grip on his steak knife.
