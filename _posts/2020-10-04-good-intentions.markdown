@@ -12,4 +12,4 @@ You tried to trip up a purse snatcher who was running past you, and that's how y
 
 You were folding donations to a charity-run thrift shop when a hobo spider dropped out of an old shirt and bit you on your toe, which swelled up.
 
-And that's why you were in no way able to run fast enough to escape the werewolf pack. 
+And that's why you were in no way able to run fast enough to escape the werewolf pack. Trust me on this -- it is a particularly gruesome way to die. One might even call it "hellish."
