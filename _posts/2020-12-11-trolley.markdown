@@ -1,0 +1,11 @@
+---
+layout: post
+title: "The Problem"
+date:   2020-12-11
+categories: death scenes
+---
+Today's prompt: "An ethical dilemma"
+
+There's a runaway trolley rushing down the tracks toward where five people are tied up. You are standing on a separate set of tracks to which the trolley could be diverted if I just pull this lever.
+
+Of course I pull the lever. I'm saving five people, and we both know you have to die anyway.
