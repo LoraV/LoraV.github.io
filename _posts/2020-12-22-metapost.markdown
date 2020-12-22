@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Schedule Update"
+date:   2020-12-22
+categories: metaposts
+---
+Instead of every other day, I will be posting here Mondays, Wednesdays and Fridays for the foreseeable future. I need to free up time for a second ongoing creative project.
