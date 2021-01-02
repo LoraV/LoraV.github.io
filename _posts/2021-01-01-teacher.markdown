@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Shoes"
+title: "The Teacher"
 date:   2021-01-01
 categories: death scenes
 ---
