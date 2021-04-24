@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "Euphemisms"
-date:   2021-02-10
+date:   2021-02-12
 categories: death scenes
 ---
 Today's prompt: "Ten euphemisms for sex" [Let's make it 15. I came up with a handful before I came up with the idea of looking at the [epithets of the Great Old Ones](https://en.wikipedia.org/wiki/Cthulhu_Mythos_deities#Table_of_Great_Old_Ones) for ideas.]
 
 Too drunk to come up with a cute [pickup line](https://yuhdead.com/death/scenes/2021/02/05/pickup-lines/), and too horny to leave well enough alone? Feel free to use one of these on that attractive stranger, and then pay the consequences when it turns out they need to make a sacrifice to the Old Ones:
 
-1. The say a little bit of knowledge is a dangerous thing. Would a little bit of carnal knowledge be an even more dangerous thing?
+1. They say a little bit of knowledge is a dangerous thing. Would a little bit of carnal knowledge be an even more dangerous thing?
 2. Wanna play hide the tentacle?
 3. Did you know the French term "la petite mort," or "the little death," refers to an orgasm? What I'm saying is, I'd let you kill me.
 4. Are you a worshipper of Dhumin? Because I'd let you burrow in my bluff.
