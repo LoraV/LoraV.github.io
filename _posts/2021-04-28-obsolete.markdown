@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Built-in Obsolescence"
-date:   2021-04-14
+date:   2021-04-28
 categories: death scenes
 ---
 Today's prompt: "What do you own that will be obsolete in twenty years? What will replace it?"
