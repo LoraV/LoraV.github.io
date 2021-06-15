@@ -4,7 +4,7 @@ title: "How To"
 date:   2021-03-05
 categories: death scenes
 ---
-Today's prompt: "Write a letter to a child explaining how to do one thing (for example, ride a horse or throw a punch."
+Today's prompt: "Write a letter to a child explaining how to do one thing (for example, ride a horse or throw a punch)."
 
 Hey, kid. Yeah, you. I'm going to tell you about how to escape when a cult to one of the Old Ones ties you up to be a sacrifice.
 
