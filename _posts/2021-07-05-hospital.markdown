@@ -1,0 +1,9 @@
+---
+layout: post
+title: "The Hospital"
+date:   2021-07-05
+categories: death scenes
+---
+Today's prompt: "Describe your last visit to a doctor's office or hospital."
+
+"I'm so sorry," the doctor says, "but there's just nothing I can do here. I haven't seen this much blood come out of somebody since Nightmare on Elm Street."
