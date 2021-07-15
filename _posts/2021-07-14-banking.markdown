@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Past Due"
+date:   2021-07-14
+categories: death scenes
+---
+Today's prompt: "Why you forgot to pay your credit card bill"
+
+"Past due? Well that doesn't make any sense, I have autopay set u--ohhhh. Oh that's right! You know how Godzilla's been going on a rampage lately? Well last week he stepped on a couple of the big Wells Fargo server farms. Somehow managed to crush both their primary servers and their disaster recovery in the same day. I guess it only wiped out data for certain customers -- something about the way their servers were sharded, I didn't totally get it. My balance was fine when we checked it, but it might have wiped out some of the account data they need to do the autopay. It was so crazy! I heard about it when I was cashing a check at my local branch. I was chatting with my favorite teller, [insert your name here], and they told me all about it. They said the likelihood of an outage at both server farms is like a million to one, and to have them both be caused by Godzilla rampages is like, a quadrillion to one? Maybe? And just as they were telling me that, Godzilla stomps my local branch and crushes the teller desk! I barely got out of there alive! I don't think the teller did, though. Man. Godzilla must really have it out for Wells Fargo."
