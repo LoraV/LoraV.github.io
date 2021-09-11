@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lovable, Furry Old Gaslighter Is More Like It"
+title: "More Like the Gaslighter at the End of this Book"
 date:   2021-09-10
 categories: death scenes
 ---
