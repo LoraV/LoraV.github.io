@@ -25,7 +25,7 @@ Cthulhu: I do not require food for subsistence.
 You: Okay.  
 Cthulhu: That doesn't mean I don't get hungry.  
 You: Of course! Of course.  
-Cthulhu: You get it. 
+Cthulhu: You get it.  
 You: So could you be sated with peanut butter and banana sandwiches?  
 Cthulhu: Don't be ridiculous.  
 You: But they've got protein, and potassium.  
@@ -37,7 +37,7 @@ Cthulhu: So who did you bring for me to eat today?
 You: So, uh, I was thinking. How about a nice sandwich today? I've got a bunch of bananas in my kitchen, and a loaf of bread, and some peanut butter.  
 [Pause.]  
 Cthulhu: How many slices of bread are there?  
-You: Let's see. I had a couple sandwiches already from it, so it looks like maybe, sixteen?  
+You: Let's see. I had a couple sandwiches already from it, so it looks like maybe, 16?  
 Cthulhu: So, enough for eight sandwiches.  
 You: Sixteen, if we make them open face.  
 Cthulhu: Don't be crass, they're messy enough as is. Let's have a look at those bananas.  
@@ -49,7 +49,7 @@ You: The wrapper says 24 ounces.
 Cthulhu: And those bananas. How much do they weigh?  
 You: Maybe a couple pounds?  
 Cthulhu: And how much do you weigh?  
-You: That's kind of a personal quetion.  
+You: That's kind of a personal question.  
 Cthulhu: A lot more than eight sandwiches.  
 You: I could always make a run to the store.  
 Cthulhu: I'm _very_ hungry.  
