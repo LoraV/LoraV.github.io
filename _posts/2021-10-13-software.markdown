@@ -1,0 +1,19 @@
+---
+layout: post
+title: "The Bug"
+date:   2021-10-13
+categories: death scenes
+---
+Today's prompt: "The missing software engineer"
+
+"It's no good," the kidnapped software engineer told his captors. "I'm not going to give you the doomsday device software I developed totally by accident with the intent of building something more beneficial for society in a plot point ripped out of a B-movie. And you can't just keep me here until I do. I suspected this might happen, so I never checked the code into a version control system. The only copies of my code are on personal devices that are stored near a self-destruct system. If I don't push a button on my phone, which can only be unlocked by my fingerprint scan, once a day, the self-destruct system is programmed to emit a limited-range EMP which will make my laptop and all my backups with the doomsday device code on them go kablooey. And that'll happen at 7:00 tonight."
+
+"Master! I can slice off his hand with my laser blaster! We will take his hand and use his fingertips to unlock the phone and keep the doomsday device code safe until we can retrieve his computer!"
+
+*SSSSHHHHRRRRAAAAACCCCKKKKK*
+
+"AAAAAAAAAAAHHHHHHH!"
+
+"You fool! Your blast missed his wrist and burned off his fingertips! Now no one can turn off the self-destruct system!"
+
+Fortunately for the world, the software engineer developed his self-destruct system effectively. The doomsday device code was destroyed. Unfortunately for you, his next-door neighbor, his EMP generator had a little bug. He had meant for the range to be limited to the boundaries of his home and the safe house where he kept his backups. But each EMP blast hit a full city block, and the one that went off at his house took out your pacemaker.
