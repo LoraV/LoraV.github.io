@@ -4,7 +4,7 @@ title: "Skywalker"
 date:   2021-11-03
 categories: death scenes
 ---
-Today's prompt: "You are Luke Skywalker. Write three different paragraphs for your autobiography, trying out very different styles."
+Today's prompt: "You are Luke Skywalker. Write three different opening paragraphs for your autobiography, trying out very different styles."
 
 The Force has always been strong with me. What's the Force, you ask? Mass times acceleration, bitches.
 
