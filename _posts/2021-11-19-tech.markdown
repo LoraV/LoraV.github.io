@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tech"
-date:   2021-11-12
+date:   2021-11-19
 categories: death scenes
 ---
 Today's prompt: "How is hand-held technology (i.e., cell phones, iPods) affecting public social behavior and interaction in the public space? How has it impacted everyday street life and our ability to meet and deal with strangers?"
