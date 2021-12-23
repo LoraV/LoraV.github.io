@@ -6,7 +6,7 @@ categories: death scenes
 ---
 Today's prompt: "Write a message in a bottle. Write about the person who finds it."
 
-You've been stranded on the island with nothing to eat or drink for days when a sealed bottle washes up on shore. You uncork it and unroll the message inside.
+You've been stranded on the island with nothing to eat or drink for two days when a sealed bottle washes up on shore. You uncork it and unroll the message inside.
 
 "Ahoy mateys! If you find this, you are likely nearby The Most Excellent Party Boat! We are anchored in a small unnamed archipelago of barren and lifeless islands in the Pacific (see enclosed map). The captain of this delightful vessel, feeling generous and whimsical, hereby invites you aboard our craft for food, libations, and righteous partying!
 
