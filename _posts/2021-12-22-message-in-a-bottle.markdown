@@ -14,7 +14,7 @@ You've been stranded on the island with nothing to eat or drink for two days whe
 
 "Sincerely,
 
-"Captain Marsha Pendergrast
+"Captain Marsha Pendergrast   
 "The Most Excellent Party Boat"
 
 You scan the hand-drawn map and compare it to the one left from the wreckage of your plane. Holy shit. It does seem to be near here. Not swimming distance, and you wouldn't trust your strength to those currents anyway. But if you build a raft, you might be able to get to it. You've never bothered going to another island since you knew these islands were uninhabited and you could tell from the air that none of them had any major resources. But shit, if there's a party boat out there.... They could rescue you. You could get some water, a hot meal, a change of clothes, a ride home. 
