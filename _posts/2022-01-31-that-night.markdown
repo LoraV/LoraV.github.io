@@ -14,4 +14,5 @@ That night Kiara Ellison took three of her son Michael's crayon drawings off the
 
 That night in the alley between 24th and 25th streets, a loud catfight broke out that lasted nearly half an hour.
 
-That night you had just long enough before you fatally crashed into a produce truck to wonder why your brakes aren't working at all when they were perfectly fine earlier today, and whether maybe someone had cut them, and if so, who, and why.
+That night as you jammed your foot down on the brake that had been working perfectly fine this morning, seconds before the hood of your car crumpled against the produce truck, a thousand frightened thoughts hit your brain like electrical shorts, most of them iterations on, "Did someone cut the brake line?" and "Who would want me dead?" and "Why?"
+
