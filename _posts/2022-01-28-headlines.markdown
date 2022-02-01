@@ -13,7 +13,7 @@ Today's prompt: "Ten headlines you'd like to see in the _New York Times_ today a
 "No More Mass Shootings: Gun Owners Throw Weapons Into the Sea as Manufacturers Cease Production"   
 "Cthulhu Lies Dreaming: Elder God Rises, Is Tranquilized Before Causing Damage"   
 "January Police Shootings Drop to Zero as Cities Embrace Alternatives: Crime Rates Fall; Police Unions Express Bafflement"   
-"Zombie Outbreak Harmless After All: 'Turns Out They Like Ice Cream, Not Brains,' Scientist Says"
+"Zombie Outbreak Harmless After All: 'Turns Out They Like Ice Cream, Not Brains,' Scientist Says"   
 "'Miracle Cure' Found for Cancer: Pharmaceutical Company Insists on Keeping Drug Affordable"   
 "Tourist Unharmed In Freak Accident at The Met: [Insert your name here] Nearly Impaled By Lance in Arms and Armor Department"   
 
