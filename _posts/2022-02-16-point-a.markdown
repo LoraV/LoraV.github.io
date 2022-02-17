@@ -1,0 +1,9 @@
+---
+layout: post
+title: "The Shortest Distance"
+date:   2022-02-16
+categories: death scenes
+---
+Today's prompt: "How to get from point A to point B ... and why you might not want to"
+
+As we all know, the shortest distance between point A and point B is a straight line. So you start tunnelling through the center of the earth. You did not take enough precautions against cave-ins.
