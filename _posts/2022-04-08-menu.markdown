@@ -1,0 +1,54 @@
+---
+layout: post
+title: "Pick Your Poison"
+date:   2022-04-08
+categories: death scenes
+---
+Today's prompt: "Write the menu for a restaurant -- including names for dishes and descriptions of flavors and ingredients. Then rewrite it for the delivery/to-go menu. The delivery menu must be half as long, but just as tantalizing."
+
+#### Cafe Veleno
+
+##### Insalata
+
+###### House Salad   
+Mixed greens -- butter lettuce, arugula, baby spinach, and henbane leaves -- topped with garlicky croutons, chopped fresh tomatoes, grated carrots, sliced radishes, pickled red onion slices, and diced water hemlock. Dressed with our signature lemon-oregano vinaigrette.
+
+##### Pasta
+
+###### Wild Mushroom Ravioli
+Morel, chanterelle, and amanita phalloides mushrooms, beautifully sauteed and chopped fine, make the perfect filling for this classic pasta dish.
+
+###### Spaghetti Bolognese
+Our twist on the classic! A robust tomato sauce with grass-fed beef, pancetta, and local carrots and celery served over freshly made pasta, finished with a drizzle of antifreeze.
+
+
+##### Secondo
+
+###### Chicken Piccata
+Tender butterflied chicken breast lightly fried and served in a pan sauce with lemon juice, shallots, capers, and belladonna berries and decorated with thinly sliced lemon.
+
+###### Osso Buco
+Braised lamb shank slow-roasted with parsnips, celeriac, leeks and tomatoes. Served over a bed of rat poison.
+
+-----
+
+#### Cafe Veleno 
+
+###### House Salad
+Butter lettuce, arugula, baby spinach, henbane leaves, tomatoes, carrot, radishes, pickled red onion, water hemlock, croutons, lemon-oregano vinaigrette.
+
+###### Wild Mushroom Ravioli
+Morel, chanterelle, amanita phalloides.
+
+###### Spaghetti Bolognese
+Local tomatoes, carrots and celery. Grass-fed beef. Drizzle of antifreeze.
+
+###### Chicken Piccata
+Butterflied chicken, lemon, shallot, capers, belladonna berries.
+
+###### Osso Buco
+Braised lamb shank, parsnip, celeriac, leek, tomatoes, rat poison.
+
+-----
+
+You know, you could have eaten somewhere else.
