@@ -20,7 +20,7 @@ Your first car crash.
 Your first time having sex.   
 Countless hours writing fanfic.   
 Countless hours playing video games.   
-The first, fourth, and 27th dates of your first serious relationship.
+The first, fourth, and 27th dates of your first serious relationship.   
 The first, seventh, and 34th dates of your current relationship.      
 And tons and tons of dog walks, drinking beer, watching TV, reading, doing homework, doing work work, washing dishes, masturbating, changing light bulbs, mowing lawns, texting friends, commuting, buying groceries, and petting cats and dogs, all kind of interspersed in between.   
 
