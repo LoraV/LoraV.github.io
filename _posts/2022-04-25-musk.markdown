@@ -1,0 +1,11 @@
+---
+layout: post
+title: "News"
+date:   2022-04-25
+categories: death scenes
+---
+Today's prompt: "Pick a story from today's news. Imagine one of the people mentioned in the article reading it at the breakfast table that same day. Describe the scene."
+
+["Musk gets Twitter for $44 billion, to cheers and fears of 'free speech' plan,"](https://www.reuters.com/technology/exclusive-twitter-set-accept-musks-best-final-offer-sources-2022-04-25/) the headline read.
+
+"Hooray!" Elon Musk said over his waffles. "I'm going to celebrate by making up stupid baby names and blowing up some space junk!" The billionaire Internet troll slid open a wall panel in the breakfast nook and punched a shiny red button, launching a SpaceX rocket into the stratosphere. Soon, flaming hot sattelite shards were plunging toward earth. One of them was large enough that it did not burn up on reentry, and unfortunately, it was the one with a trajectory aimed squarely at you.
