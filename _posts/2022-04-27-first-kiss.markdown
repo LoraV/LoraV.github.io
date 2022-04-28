@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First ~~Kiss~~ Kill"
+title: "First Kiss"
 date:   2022-04-27
 categories: death scenes
 ---
