@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Ransom"
+date:   2022-05-02
+categories: death scenes
+---
+Today's prompt: "Write a ransom note."
+
+![A digitally-produced drawing in the style of a ransom note made by cutting out letters from pages of a magazine in various fonts and pasting them together. The message reads, "Dear insert-your-name-here, We have your kidneys. If you want them back, leave $50,000 in small, unmarked bills under the dumpster behind the laundromat on 18th and Oak. P.S. -- I hope the ice bath isn't too cold and the stitches hold. I'm kinda new to sutures."]({{site.baseurl}}/public/RansomNote.jpg)
