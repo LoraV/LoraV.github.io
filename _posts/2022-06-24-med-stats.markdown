@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Statistics"
+date:   2022-06-24
+categories: death scenes
+---
+Whenever I hear medical statistics, like the average length of the small intestine, or the number of quarts of blood in the human body, it always makes me wonder how these things are quantified. How many autopsies have to be performed to arrive at a given figure? Were the families of the deceased always notified when such measurements were being made, or was this being done in the Wild West days of medicine, before standard ethical practices were in place? Either way, your assailants would know better than most how much standard deviation there is in the statistic that the average human has 20 square feet of skin.
+
